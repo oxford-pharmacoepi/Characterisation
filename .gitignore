@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+Database Characterisation/Results/*.csv
+Database Characterisation/Results/*.zip
+Database Characterisation/Results/*.txt
