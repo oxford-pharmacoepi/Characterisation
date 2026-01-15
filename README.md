@@ -28,8 +28,8 @@ This repository contains code for the characterisation of a database.
 
     -   Open the `CodeToRun.R` file. This is the main script you’ll use.
     -   Follow the instructions within the file to add your database-specific information.
-    -   Run the code as directed. This will generate a `Results` folder containing the outputs, including a ZIP file with the results for sharing.
-
+    -   Run the code as directed. This will generate a `Results` folder containing the outputs.
+      
 4.  **OPTIONAL: Visualize Results in Shiny**
 
     -   Navigate to the `shiny` folder and open the project file `shiny.Rproj` in RStudio.
